@@ -1,6 +1,6 @@
 # Campaign Strategy for Candy Store 
 
-The data(candy_data.csv) contains the following fields:
+For binary variables, 1 means yes, 0 means no. The data(candy_data.csv) contains the following fields:
 
 | **Header** | Description |
 | --- | --- |
