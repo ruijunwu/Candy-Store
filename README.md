@@ -36,5 +36,5 @@ H<sub>0</sub> : &mu;<sub>chocolate</sub> = &mu;<sub>caramel</sub> vs. H<sub>1</s
 3. Hypothesis 3
 
 It seems that the correlation between chocolate and winpercent, chocolate and bar is relatively
-high. So we want know whether a candy is a bar, whether a candy is fruity and overall win per-
+high(according to the heap map). So we want know whether a candy is a bar, whether a candy is fruity and overall win per-
 centage are good predictors of whether the candy contains chocolate or not. Thus, we use generalizedlinearmodel in R.
