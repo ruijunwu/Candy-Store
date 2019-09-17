@@ -19,13 +19,13 @@ For binary variables, 1 means yes, 0 means no. The data(candy_data.csv) contains
 
 The project includes three hypotheses, using t-test, proportion test and logistics regression to get the conclusion.
 
-1. Hypothesis 1
+1. **Hypothesis 1**
 
 We want to check among the candies with winpercent greater
 than 50, if the proportion of chocolate is greater than fruity. 
 H<sub>0</sub> : p<sub>chocolate</sub> = p<sub>fruity</sub> vs. H<sub>1</sub> : p<sub>chocolate</sub> > p<sub>fruity</sub>
 
-2. Hypothesis 2
+2. **Hypothesis 2**
 
 We would like to check if caramel candies contains more sugar than
 the chocolate candies.
@@ -33,7 +33,7 @@ the chocolate candies.
 H<sub>0</sub> : &mu;<sub>chocolate</sub> = &mu;<sub>caramel</sub> vs. H<sub>1</sub> : &mu;<sub>chocolate</sub> < &mu;<sub>caramel</sub>
 
 
-3. Hypothesis 3
+3. **Hypothesis 3**
 
 It seems that the correlation between chocolate and winpercent, chocolate and bar is relatively
 high(according to the heap map). So we want know whether a candy is a bar, whether a candy is fruity and overall win per-
